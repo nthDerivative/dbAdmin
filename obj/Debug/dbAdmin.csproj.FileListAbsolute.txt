@@ -1,0 +1,15 @@
+C:\Users\bhiro\source\repos\dbAdmin\bin\Debug\dbAdmin.exe.config
+C:\Users\bhiro\source\repos\dbAdmin\bin\Debug\dbAdmin.exe
+C:\Users\bhiro\source\repos\dbAdmin\bin\Debug\dbAdmin.pdb
+C:\Users\bhiro\source\repos\dbAdmin\obj\Debug\dbAdmin.csprojAssemblyReference.cache
+C:\Users\bhiro\source\repos\dbAdmin\obj\Debug\dbAdmin.Form1.resources
+C:\Users\bhiro\source\repos\dbAdmin\obj\Debug\dbAdmin.Properties.Resources.resources
+C:\Users\bhiro\source\repos\dbAdmin\obj\Debug\dbAdmin.csproj.GenerateResource.cache
+C:\Users\bhiro\source\repos\dbAdmin\obj\Debug\dbAdmin.exe
+C:\Users\bhiro\source\repos\dbAdmin\obj\Debug\dbAdmin.pdb
+C:\Users\bhiro\source\repos\dbAdmin\bin\Debug\MySql.Data.dll
+C:\Users\bhiro\source\repos\dbAdmin\bin\Debug\Google.Protobuf.dll
+C:\Users\bhiro\source\repos\dbAdmin\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\bhiro\source\repos\dbAdmin\bin\Debug\Renci.SshNet.dll
+C:\Users\bhiro\source\repos\dbAdmin\bin\Debug\MySql.Data.xml
+C:\Users\bhiro\source\repos\dbAdmin\obj\Debug\dbAdmin.csproj.CopyComplete
